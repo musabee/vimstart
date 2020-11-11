@@ -5,36 +5,33 @@
   "search_engine": "https://www.google.co.id/search?q=",
   "favourites": [
     {
-      "key": ":fb",
-      "url": "http://facebook.com"
+      "key": ":jp",
+      "url": "https://boards.4channel.org/jp/catalog"
     },
     {
-      "key": ":tt",
-      "url": "http://twitter.com"
+      "key": ":a",
+      "url": "https://boards.4channel.org/a/catalog"
     },
     {
-      "key": ":ig",
-      "url": "http://instagram.com"
+      "key": ":v",
+      "url": "https://boards.4channel.org/v/catalog"
     },
     {
       "key": ":yt",
-      "url": "http://youtu.be"
+      "url": "http://youtube.com"
     },
     {
-      "key": ":gh",
-      "url": "http://github.com"
+      "key": ":holotools",
+      "url": "https://hololive.jetri.co/#/"
     },
     {
-      "key": ":ks",
-      "url": "http://kaskus.co.id"
+      "key": ":tw",
+      "url": "https://twitter.com"
     },
     {
-      "key": ":tp",
-      "url": "http://tokopedia.com"
+      "key": ":r/hololive",
+      "url": "https://www.reddit.com/r/Hololive/"
     },
-    {
-      "key": ":em",
-      "url": "http://gmail.com"
     }
   ]
 }
